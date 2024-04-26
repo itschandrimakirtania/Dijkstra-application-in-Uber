@@ -1,4 +1,5 @@
 In the contemporary urban landscape, transportation poses a significant challenge, characterized by issues of congestion, inefficiency, and environmental impact. Traditional modes of transport often fail to provide reliable, cost-effective, and sustainable solutions to meet the dynamic mobility needs of individuals.
 In this “DAA application in Uber” Dijkstra's algorithm serves as the backbone for Uber's route optimization, aiding in finding the shortest and most efficient paths between pick-up and drop-off locations. By representing the road network as a graph with nodes and edges denoting intersections and roads respectively, the algorithm swiftly computes the optimal route by iteratively exploring neighbouring nodes and updating the shortest path to each visited node. Uber ensures that its drivers navigate efficiently, minimizing travel time and fuel consumption while providing a seamless experience for passengers.
+
 PPT: https://docs.google.com/presentation/d/1sL2APF-olaUH3vXYyjzNKBhH0XeO_W48/edit?usp=drive_link&rtpof=true&sd=true
 DEMO: https://youtu.be/VmVBJWaESH8
